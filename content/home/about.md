@@ -12,4 +12,3 @@ design:
   background:
     image: ""
 ---
-Hello world 123
