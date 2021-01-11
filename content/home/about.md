@@ -10,6 +10,6 @@ subtitle: subtitle
 design:
   columns: "2"
   background:
-    image: world1.png
+    image: ""
 ---
 Hello world 123
