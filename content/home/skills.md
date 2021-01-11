@@ -2,18 +2,42 @@
 widget: featurette
 widget_id: skill
 feature:
-  - description: 90%
-    icon: r-project
+  - description: 
+    icon: robot
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: ROS
+  - description: 
+    icon: code
+    icon_pack: fab
+    name: C++
+  - description:
+    icon: code-branch
+    icon_pack: fab
+    name: Git
+  - description:
+    icon: compact-disc
+    icon_pack: fab
+    name: Linux
+  - description: 
+    icon: python
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Python
+  - description: 
+    icon: eye
     icon_pack: fas
-    name: Photography
+    name: OpenCV
+  - description: 
+    icon: brain
+    icon_pack: fas
+    name: PyTorch
+  - description: 
+    icon: drafting-compass
+    icon_pack: fas
+    name: SolidWorks
+  - description: 
+    icon: head-vr
+    icon_pack: fas
+    name: Augmented Reality
 headless: true
 weight: 30
 title: Skills

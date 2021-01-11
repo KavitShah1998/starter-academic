@@ -22,24 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Student Researcher (Motion Planning)
+    company: Worcester Polytechnic Institute
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Massachusetts
+    date_start: '2020-08-20'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: 
+        Working on developing autonomous & assistive autonomous robot navigation algorithm for smart tele-operated nursing robots deployed in hospitals.
+        * Developed a dynamic motion planning algorithm for mobile robot navigation
+        * Achieved assistive-autonomy for "smart" teleoperated mobile robots with complete autonomous collision avoidance
+        * Integrated the system with mapping, localization, object & human motion tracking modules
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Graduate Learning Assistant
+    company: Worcester Polytechnic Institute
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Massachusetts
+    date_start: '2020-08-15'
+    date_end: '2020-12-13'
+    description: 
+        Taught calculus 4 and linear algebra to freshmen and sophomore students.
+
+  - title: Student Researcher (MEMS)
+    company: Sardar Patel Institute of Technology
+    company_url: ''
+    location: Mumbai
+    date_start: '2019-01-15'
+    date_end: '2019-08-05'
+    description: 
+        Achieved 10% design optimization of micro-cantilever beams for improved bio-sensing 
+
+  - title: Trainee Student
+    company: Air India
+    company_url: ''
+    location: Mumbai
+    date_start: '2017-12-10'
+    date_end: '2018-01-20'
+    description: 
+        
 ---

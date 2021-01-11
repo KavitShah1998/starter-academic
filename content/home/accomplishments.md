@@ -23,28 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://confirm.udacity.com/EDXUCK7V
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-09-11"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Udacity
+  organization_url: https://www.udacity.com
+  title: Robotics Software Engineer
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.hackerrank.com/certificates/e3c98dab6b7f
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_start: "2020-09-15"s
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: HackerRank
+  organization_url: https://www.hackerrank.com/dashboard
+  title: C++ (Basic)
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-06-08"
+  description: "Certified user of CATIA V5, a highly versatile 3D modelling software"
+  organization: Cadd Center
+  organization_url: 
+  title: 'Course on CATIA V5'
   url: ""
 ---
