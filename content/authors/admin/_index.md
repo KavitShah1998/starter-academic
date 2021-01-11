@@ -4,7 +4,9 @@ avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - MotionPlanningObstacleAvoidanceAutonomousRobotNavigation
+  - Motion Planning
+  - Obstacle Avoidance
+  - Autonomous Robot Navigation
 social:
   - icon: envelope
     icon_pack: fas
