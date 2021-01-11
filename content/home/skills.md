@@ -19,8 +19,7 @@ weight: 30
 title: Skills
 subtitle: null
 design:
-  columns: "2"
+  columns: ""
   background:
-    image: world1.png
+    image: ""
 ---
-Skill123, Skill 456, Skill 789
