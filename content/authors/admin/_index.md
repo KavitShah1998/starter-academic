@@ -10,19 +10,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: kshah@wpi.edu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kavitshah09/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/KavitShah1998/
 organizations:
   - name: Worcester Polytechnic Institute
     url: https://www.wpi.edu
@@ -39,9 +33,8 @@ highlight_name: false
 title: Kavit Shah
 email: ""
 ---
+Kavit is a graduate student and a student researcher at Worcester Polytechnic Institute. His research interest is in Motion Planning and Controls for autonomous robot navigation. He is a passionate software developer and enthusiastic about new inventions. Apart from academics, he is a swimmer, reader & an avid astrophile.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Vision : His vision is to develop the autonomy technology to assist humans in all walks of life.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
