@@ -14,7 +14,7 @@ links:
   - url: https://github.com/KavitShah1998/Traffic_Signal_Detection_Using_Deep_Learning
     name: Code
     icon_pack: fab
-    icon: GitHub
+    icon: github
 image:
   filename: kavitshah_photo.jpg
   focal_point: Smart
