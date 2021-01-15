@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: https://www.hackerrank.com/certificates/e3c98dab6b7f
   date_end: ""
-  date_start: "2020-09-15"s
+  date_start: "2020-09-15"
   description: ""
   organization: HackerRank
   organization_url: https://www.hackerrank.com/dashboard
