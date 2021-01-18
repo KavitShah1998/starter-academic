@@ -1,7 +1,7 @@
 ---
 title: Traffic Signal Detection using Deep Learning
 subtitle: "Course : Computer Vision"
-date: 2021-01-15T22:52:08.395Z
+date: "2021-01-15T22:52:08.395Z"
 summary: Traffic Signal Example Project
 draft: false
 featured: false
