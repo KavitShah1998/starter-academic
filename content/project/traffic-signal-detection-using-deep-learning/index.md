@@ -9,7 +9,7 @@ authors: []
 tags:
   - Computer Vision
   - Deep Learning
-  - YoloV3
+  - YOLOv3
 external_link: 
 links:
   - url: https://github.com/KavitShah1998/Traffic_Signal_Detection_Using_Deep_Learning
@@ -25,4 +25,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This is the body of the project section
+Course : Computer Vision
+
+Problem Statement : Robust detection and state estimation of traffic signals
+
+Application : Perception modules for autonomous drive assist systems
+
+Approach : 
+ * Extracted image features using SIFT & SURF feature detectors, Hough transforms and dynamic thresholding to locate the traffic signals in image frames
+
+* Integrated Deep Neural Network based object detection method YOLOV3 to improve robustness of detection and SVM for status recognition
+
+
