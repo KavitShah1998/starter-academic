@@ -27,13 +27,13 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Motion Planning
+  - name: MP
     tag: Motion Planning
-  - name: Reinforcement Learning
+  - name: RL
     tag: Reinforcement Learning
-  - name: Deep Learning
+  - name: DL
     tag: Deep Learning
-  - name: Computer Vision
+  - name: CV
     tag: Computer Vision
   - name: Other
     tag: Demo
