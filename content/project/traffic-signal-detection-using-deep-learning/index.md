@@ -9,12 +9,17 @@ authors: []
 tags:
   - Computer Vision
   - Deep Learning
-external_link: //github.com/KavitShah1998/Traffic_Signal_Detection_Using_Deep_Learning
+  - YoloV3
+external_link: 
 links:
   - url: https://github.com/KavitShah1998/Traffic_Signal_Detection_Using_Deep_Learning
     name: Code
     icon_pack: fab
     icon: github
+  - url: RBE549report.pdf 
+    name: PDF
+    icon_pack: fab
+    icon: file-pdf
 image:
   filename: kavitshah_photo.jpg
   focal_point: Smart
