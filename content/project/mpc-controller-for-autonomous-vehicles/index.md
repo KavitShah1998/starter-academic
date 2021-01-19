@@ -15,7 +15,7 @@ external_link:
 links:
   - url: RBE502_Robot_Control_Report.pdf
     name: PDF
-    icon_pack: fab
+    icon_pack: fas
     icon: file-pdf
 image:
   filename: ''

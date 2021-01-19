@@ -21,10 +21,10 @@ links:
   #   icon: github
   - url: RBE_501_Final_Report.pdf
     name: PDF
-    icon_pack: fab
+    icon_pack: fas
     icon: file-pdf
 image:
-  filename: 
+  caption : SolidWorks preview of the engineered hexapod
   focal_point: Smart
   preview_only: false
 ---

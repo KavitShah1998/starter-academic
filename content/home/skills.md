@@ -4,19 +4,19 @@ widget_id: skill
 feature:
   - description: 
     icon: robot
-    icon_pack: fab
+    icon_pack: fas
     name: ROS
   - description: 
     icon: code
-    icon_pack: fab
+    icon_pack: fas
     name: C++
   - description:
     icon: code-branch
-    icon_pack: fab
+    icon_pack: fas
     name: Git
   - description:
     icon: compact-disc
-    icon_pack: fab
+    icon_pack: fas
     name: Linux
   - description: 
     icon: python

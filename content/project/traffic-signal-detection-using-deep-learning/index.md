@@ -18,7 +18,7 @@ links:
     icon: github
   - url: RBE549report.pdf 
     name: PDF
-    icon_pack: fab
+    icon_pack: fas
     icon: file-pdf
 image:
   filename: kavitshah_photo.jpg

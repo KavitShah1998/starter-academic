@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  filename: ''
+  caption : Maze solver example using Dijkstra's algorithm 
   focal_point: Smart
   preview_only: false
 ---
