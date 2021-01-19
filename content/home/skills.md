@@ -20,7 +20,7 @@ feature:
     name: Linux
   - description: 
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
   - description: 
     icon: eye
