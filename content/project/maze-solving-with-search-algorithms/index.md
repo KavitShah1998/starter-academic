@@ -8,7 +8,7 @@ featured: false
 authors: []
 tags:
   - Search Algorithms
-  - Maze solving
+  - Motion Planning
   - C++
 external_link: 
 links:

@@ -10,12 +10,17 @@ tags:
   - Computer Vision
   - Deep Learning
   - YOLOv3
+  - Object Detection
 external_link: 
 links:
   - url: https://github.com/KavitShah1998/Traffic_Signal_Detection_Using_Deep_Learning
     name: Code
     icon_pack: fab
     icon: github
+  - url: CV_PPT.pptx
+    name: Slides
+    icon_pack: fas
+    icon: presentation
   - url: RBE549report.pdf 
     name: PDF
     icon_pack: fas

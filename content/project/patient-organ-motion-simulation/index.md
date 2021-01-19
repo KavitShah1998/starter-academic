@@ -8,10 +8,10 @@ featured: false
 authors: []
 tags:
   - Robot Dynamics
-  - Surgical Robots
-  - Organ Motion Simulation
+  - Medical Robotics
   - SolidWorks
-  - Simscape Multibody
+  - Motion Planning
+  - Controls
   - Gazebo
 external_link: 
 links:

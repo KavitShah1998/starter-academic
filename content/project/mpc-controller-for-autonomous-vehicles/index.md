@@ -11,6 +11,7 @@ tags:
   - Closed-loop control
   - MPC
   - MATLAB
+  - Motion Planning
 external_link: 
 links:
   - url: RBE502_Robot_Control_Report.pdf

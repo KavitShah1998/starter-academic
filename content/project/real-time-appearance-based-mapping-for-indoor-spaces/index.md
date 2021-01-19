@@ -9,6 +9,8 @@ authors: []
 tags:
   - SLAM
   - ROS
+  - Gmapping
+  - RTAB-Map
 external_link: 
 links:
   # - url: 
