@@ -25,7 +25,7 @@ links:
     name: Code
     icon_pack: fab
     icon: github
-  - url: RBE550-FINAL-PPT.pptx
+  - url: https://drive.google.com/file/d/1M0RBCfp3IGdTZ2xd5zykxhKqTN1T0fAr/view?usp=sharing
     name: Slides
     icon_pack: fas
     icon: presentation

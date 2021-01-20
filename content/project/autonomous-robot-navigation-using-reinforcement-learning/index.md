@@ -23,11 +23,11 @@ links:
   #   name: Code
   #   icon_pack: fab
   #   icon: github
-  - url: RoboNav-Final-Presentation.pptx
+  - url: https://drive.google.com/file/d/1hXdfITe2-Vs9tp93uhjJeCwUpQgp8Qbt/view?usp=sharing
     name: Slides
     icon_pack: fas
     icon: presentation
-  - url: RoboNav-Poster-Presentation.pptx
+  - url: https://drive.google.com/file/d/1IVyaIXo4AHIdOk-zpf5DI9tXNUi_HkNj/view?usp=sharing
     name: Poster
     icon_pack: fas
     icon: presentation
