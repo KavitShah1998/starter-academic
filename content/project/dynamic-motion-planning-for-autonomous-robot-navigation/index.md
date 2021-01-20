@@ -20,7 +20,7 @@ links:
     name: Code
     icon_pack: fab
     icon: github
-  - url: Dynamic_Obstacle_Avoidance_for_Autonomous_Robot_Navigation.pptx
+  - url: https://drive.google.com/file/d/1Do_gSt6SoaLU6DM2C7sr9fxBgGQeQxEQ/view?usp=sharing
     name: Slides
     icon_pack: fas
     icon: presentation
