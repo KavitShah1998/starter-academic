@@ -10,6 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
+draft: true
 subtitle:
 
 content:
