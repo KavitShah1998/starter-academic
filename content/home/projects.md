@@ -29,12 +29,9 @@ content:
     tag: '*'
   - name: MP
     tag: Motion Planning
-  - name: RL
-    tag: Reinforcement Learning
-  - name: DL
-    tag: Deep Learning
-  - name: CV
-    tag: Computer Vision
+  - name: C++
+    tag: C++
+  - name: CV/DL
   - name: Other
     tag: Demo
 
