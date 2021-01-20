@@ -27,11 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: MP
+  - name: Planning & Controls
     tag: Motion Planning
   - name: C++
     tag: C++
   - name: CV/DL
+    tag: Computer Vision
   - name: Other
     tag: Demo
 

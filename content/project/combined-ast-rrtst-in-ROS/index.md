@@ -12,6 +12,8 @@ tags:
   - OpenCV
   - ROS
   - PID Controller
+  - C++
+  - C++14
   - A* 
   - RRT*
   - D*

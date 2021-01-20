@@ -14,6 +14,8 @@ tags:
   - ROS
   - ORCA
   - OpenCV
+  - C++
+  - C++11
 external_link: 
 links:
   - url: https://github.com/KavitShah1998/DynamicObstacleAvoidance

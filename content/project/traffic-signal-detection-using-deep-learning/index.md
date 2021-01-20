@@ -11,6 +11,7 @@ tags:
   - Deep Learning
   - YOLOv3
   - Object Detection
+  - Python
 external_link: 
 links:
   - url: https://github.com/KavitShah1998/Traffic_Signal_Detection_Using_Deep_Learning
