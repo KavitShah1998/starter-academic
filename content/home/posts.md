@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -10,7 +10,6 @@ headless: true
 weight: 60
 
 title: Recent Posts
-draft: true
 subtitle:
 
 content:
@@ -39,4 +38,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
----
+--- -->
