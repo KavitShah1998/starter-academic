@@ -29,7 +29,7 @@ item:
   description: ""
   organization: WPI
   organization_url: 
-  title: RBE550: Motion Planning
+  title: RBE550:Motion Planning
   url: ""
 
 - certificate_url: 
