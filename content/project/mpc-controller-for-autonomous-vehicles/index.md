@@ -19,7 +19,7 @@ links:
     icon_pack: fas
     icon: file-pdf
 image:
-  filename: ''
+  filename: 'Autonomous Driving Blockset. Credits: MathWorks'
   focal_point: Smart
   preview_only: false
 ---

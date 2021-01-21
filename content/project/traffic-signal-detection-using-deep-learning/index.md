@@ -18,7 +18,7 @@ links:
     name: Code
     icon_pack: fab
     icon: github
-  - url: CV_PPT.pptx
+  - url: https://drive.google.com/file/d/1KALBWpFjGh7Uy4sTpxDdMktCdWLJZ-q5/view?usp=sharing
     name: Slides
     icon_pack: fas
     icon: presentation

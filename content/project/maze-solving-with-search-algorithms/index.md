@@ -10,6 +10,7 @@ tags:
   - Search Algorithms
   - Motion Planning
   - C++
+  - Cpp
 external_link: 
 links:
   - url: https://github.com/KavitShah1998/Search_Algorithms
