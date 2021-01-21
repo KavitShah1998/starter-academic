@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
@@ -31,7 +31,6 @@ item:
   organization_url: 
   title: RBE550:Motion Planning
   url: ""
-
 - certificate_url: 
   date_end: "2020-01-05"
   date_start: "2020-01-01"
@@ -64,4 +63,4 @@ item:
   organization_url: 
   title: RBE549:Computer Vision
   url: ""
---- -->
+---
