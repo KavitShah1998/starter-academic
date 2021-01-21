@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
@@ -64,4 +64,4 @@ item:
   organization_url: 
   title: RBE549:Computer Vision
   url: ""
---- -->
+---
