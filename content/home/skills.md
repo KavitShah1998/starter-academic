@@ -15,8 +15,8 @@ feature:
     icon_pack: fas
     name: Git
   - description:
-    icon: compact-disc
-    icon_pack: fas
+    icon: ubuntu
+    icon_pack: fab
     name: Linux
   - description: 
     icon: python
