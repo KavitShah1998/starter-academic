@@ -37,4 +37,4 @@ Kavit is a graduate student and a student researcher at Worcester Polytechnic In
 
 Vision : His vision is to develop the autonomy technology to assist humans in all walks of life.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Kavit_Nilesh_Shah_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
