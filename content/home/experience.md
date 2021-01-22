@@ -29,10 +29,10 @@ experience:
     date_start: '2020-08-20'
     date_end: ''
     description: 
-        Working on developing autonomous & assistive autonomous robot navigation algorithm for smart tele-operated nursing robots deployed in hospitals.
-        * Developed a dynamic motion planning algorithm for mobile robot navigation
-        * Achieved assistive-autonomy for "smart" teleoperated mobile robots with complete autonomous collision avoidance
-        * Integrated the system with mapping, localization, object & human motion tracking modules
+        Developing autonomous & assistive-autonomous robot navigation algorithm for smart tele-operated nursing robots to deployed in hospitals.
+        # * Developed a dynamic motion planning algorithm for mobile robot navigation
+        # * Achieved assistive-autonomy for "smart" teleoperated mobile robots with complete autonomous collision avoidance
+        # * Integrated the system with mapping, localization, object & human motion tracking modules
         
   - title: Graduate Learning Assistant
     company: Worcester Polytechnic Institute
@@ -59,5 +59,5 @@ experience:
     date_start: '2017-12-10'
     date_end: '2018-01-20'
     description: 
-        
+        Managed aircraft re-construction and maintanenance activites of Boeing 777, Boeing 737 & Boeing 747-ER
 ---
