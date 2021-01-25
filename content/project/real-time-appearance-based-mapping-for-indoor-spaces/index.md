@@ -17,10 +17,10 @@ links:
   #   name: Code
   #   icon_pack: fab
   #   icon: github
-  # - url: RBE549report.pdf 
-  #   name: PDF
-  #   icon_pack: fas
-  #   icon: file-pdf
+  - url: https://www.youtube.com/watch?v=uIxt7ti0y7U&feature=youtu.be
+    name: Video
+    icon_pack: fab
+    icon: youtube
 image:
   caption : RTAB-Map in action
   focal_point: Smart
