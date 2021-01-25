@@ -24,11 +24,11 @@ links:
   #   icon: github
   - url: https://www.youtube.com/watch?v=xagASHUpNC0&ab_channel=RobotiXTales
     name: Match1
-    icon_pack: fas
+    icon_pack: fab
     icon: youtube
   - url: https://www.youtube.com/watch?v=k-LLCuKxdQM&t=3s&ab_channel=RobotiXTales
     name: Match2
-    icon_pack: fas
+    icon_pack: fab
     icon: youtube
 image:
   filename: Real-time traffic signal detection and status estimation
